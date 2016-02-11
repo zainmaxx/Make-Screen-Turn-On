@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="MakeScreenTurnOn.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MakeScreenTurnOn"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Black">
+        <TextBlock Text="No Screen off" Foreground="Yellow" HorizontalAlignment="Center" VerticalAlignment="Center"
+                   FontWeight="Light" FontSize="16"/>
+    </Grid>
+</Page>

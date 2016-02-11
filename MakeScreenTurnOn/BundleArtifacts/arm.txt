@@ -1,0 +1,2 @@
+MainPackage=c:\users\shahriar\documents\visual studio 2015\Projects\MakeScreenTurnOn\MakeScreenTurnOn\bin\ARM\Debug\MakeScreenTurnOn_1.0.1.0_ARM_Debug.appx
+SymbolPackage=c:\users\shahriar\documents\visual studio 2015\Projects\MakeScreenTurnOn\MakeScreenTurnOn\AppPackages\MakeScreenTurnOn_1.0.1.0_Debug_Test\MakeScreenTurnOn_1.0.1.0_ARM_Debug.appxsym
